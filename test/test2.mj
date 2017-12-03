@@ -1,0 +1,48 @@
+program Test2
+	const bool cbl = true;
+	const char ccr = 'a';
+	const int cit = 10;
+	
+	int vit, vait[];
+	char vcr;
+	bool vabl[];
+	
+{
+	int mrit() char p; {
+		p = 'd';
+		vcr = p;
+		vit = 5;
+		return vit;
+	}
+	
+	int main() char c[]; bool b[]; {
+		b = new bool[2];
+		b[0] = cbl;
+		b[1] = false;
+		
+		vabl = new bool[1];
+		vabl[0] = b[1];
+		
+		vait = new int[3];
+		vait[0] = 4;
+		vait[0] += cit - 2;
+		vait[1] = vait[0] /= 4;
+		
+		read(vait[2]);
+		
+		print(vabl[0]);
+		print(b[0]);
+		print(b[1]);
+		print(vait[0]);
+		print(vait[1]);
+		print(vait[2] - vait[1]);
+		
+		vit = 15;
+		vit -= mrit();
+		print(vit);
+		
+		print(vcr);
+	
+		return 0;
+	}
+}

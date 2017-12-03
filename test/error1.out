@@ -1,0 +1,71 @@
+[INFO ] 2017-05-10 22:57:01.812 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error1.mj
+[INFO ] 2017-05-10 22:57:01.825 [main] MJParser - Deklarisana konstanta o na liniji 2
+[ERROR] 2017-05-10 22:57:01.825 [main] MJParser - 
+Sintaksna greska Error na liniji 2
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Uspesan oporavak od greske na liniji 2 pri definisanju globalne promenljive
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Deklarisana konstanta i na liniji 2
+[ERROR] 2017-05-10 22:57:01.826 [main] MJParser - 
+Sintaksna greska Error na liniji 4
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Uspesan oporavak od greske na liniji 4 pri definisanju globalne promenljive
+[INFO ] 2017-05-10 22:57:01.828 [main] MJParser - Obradjuje se funkcija mrit na liniji 7
+[INFO ] 2017-05-10 22:57:01.829 [main] MJParser - Deklarisana promenljiva rw na liniji 7
+[ERROR] 2017-05-10 22:57:01.829 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[ERROR] 2017-05-10 22:57:01.829 [main] MJParser - 
+Sintaksna greska Error na liniji 7
+[INFO ] 2017-05-10 22:57:01.829 [main] MJParser - Uspesan oporavak od greske na liniji 7 pri definisanju lokalne promenljive
+[INFO ] 2017-05-10 22:57:01.830 [main] MJParser - Pretraga na 8(vcr), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.830 [main] MJParser - Greska na liniji 8: ime vcr nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - 
+Sintaksna greska Error na liniji 9
+Uspesan oporavak od greske pri dodeli vrednosti.
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - Semanticka greska na liniji 7 : funkcija mrit nema return iskaz! 
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Obradjuje se funkcija main na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Deklarisana promenljiva f na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Deklarisana promenljiva a na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Pretraga na 13(ib), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - Greska na liniji 13: ime ib nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 13 : sa leve strane izraza nije promenljiva ili elemnt niza
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 15(o), nadjeno Con o: int, 10, 0 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - 
+Sintaksna greska Error na liniji 17
+Uspesan oporavak od greske pri dodeli vrednosti.
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 19(objekat), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 19: ime objekat nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 19 : elemnt prosledjen u funkciju read nije promenljiva ili elemnt niza tipa int, char ili bool
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 21(a), nadjeno Var a: , 1, 1 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Semanticka greska na liniji 12 : funkcija main nema return iskaz! 
+[DEBUG] 2017-05-10 22:57:01.833 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Print calls = 1
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global constants definitions = 2
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global variable definitions = 0
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Local variable definitions in main function = 2
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global array variable declarations = 0
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog Error1: notype, 0, 1 
+   Con o: int, 10, 0 
+   Con i: int, 5, 0 
+   Meth mrit: int, 0, 0 
+      Var rw: char, 0, 1 
+
+   Meth main: int, 5, 0 
+      Var f: char, 0, 1 
+      Var a: , 1, 1 
+      Con : , 1, 1 
+
+
+
+[ERROR] 2017-05-10 22:57:01.834 [main] MJParserTest - Error : Parsiranje neuspesno!

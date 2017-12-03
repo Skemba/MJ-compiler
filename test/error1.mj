@@ -1,0 +1,23 @@
+program Error1
+	const int o = 10, const int i = 5;
+	
+	char vcr = 1;
+	
+{
+	int mrit() char rw; greska {
+		vcr = 'a'
+		return;
+	}
+	
+	int main() char f; bool a; {
+		ib = true;
+		
+		o = 5
+		
+		int a = 4;
+		
+		read(objekat);
+		
+		print(a);
+	}
+}

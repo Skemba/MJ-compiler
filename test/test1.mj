@@ -1,0 +1,57 @@
+program Test1
+	int x, y; bool b; char c; int g[];
+	char nizch[];
+	
+	const int jedan = 1, rr = 5;
+	const int pet = 5;
+	
+	const int p = 3;
+	
+{
+	int k() int c, l; {
+		c = 0;
+		c--;
+		print(c);
+		return c+3;
+	}
+	
+	static void p() char p1; {
+	}
+	
+	int main() char lk[]; {
+	
+		nizch = new char[3];
+		nizch[0] = 'a';
+		nizch[jedan] = 'b';
+		nizch[pet - 3] = 'c';
+		print( nizch[2 - 1]);
+		print( nizch[jedan * 2]);
+	
+		c = 'a';
+		
+		x = 10;
+		x /= 2;
+		x++;
+		
+		lk = new char[4];
+		lk[2] = 'v';
+		c = lk[2];
+		
+		y = x * ((11 + 11) % 10);
+		
+		b = true;
+		
+		g = new int[2];
+		g[1] = 2;
+		
+		print(c);
+		print(x);
+		print(y);
+		print(b);
+		print(g[1]);
+		
+		y = k();
+		print(y);
+		return 0;
+	}	
+}

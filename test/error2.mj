@@ -1,0 +1,44 @@
+program MJProgram
+	int x; int y[]; bool b; char c;
+	
+	const int p = 3;
+	
+	class Guma extends Objekat {
+		int b, r, k;
+		char m; 
+		{
+			bool r(bool r) int k[]; {
+				print(5);
+			}
+		}
+	}
+{
+	int k(int a, int znj, char p[], int f) int c, l; {
+		c = 0;
+		if(c >= 0 && c < 3) {
+			c *= 3;
+			l /= f++;
+			if(c == 3) {
+				break;
+			}
+		} else {
+			c = -1;
+			continue;
+		}
+		print(0);
+		return 'l';
+	}
+	
+	static void p(int k) int p; greska gr; {
+	}
+	
+	int main() {
+		y = new int[3];
+		y[1] = 5;
+		x = 3;
+		print(1);
+		print(x);
+		k();
+		return 0;
+	}
+}

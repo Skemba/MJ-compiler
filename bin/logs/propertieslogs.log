@@ -1,0 +1,439 @@
+[INFO ] 2017-05-10 22:55:20.278 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\test1.mj
+[INFO ] 2017-05-10 22:55:20.498 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-10 22:55:20.498 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-10 22:55:20.498 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-10 22:55:20.499 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-10 22:55:20.499 [main] MJParser - Deklarisana promenljiva g na liniji 2
+[INFO ] 2017-05-10 22:55:20.499 [main] MJParser - Deklarisana promenljiva nizch na liniji 3
+[INFO ] 2017-05-10 22:55:20.500 [main] MJParser - Deklarisana konstanta jedan na liniji 5
+[INFO ] 2017-05-10 22:55:20.500 [main] MJParser - Deklarisana konstanta rr na liniji 5
+[INFO ] 2017-05-10 22:55:20.500 [main] MJParser - Deklarisana konstanta pet na liniji 6
+[INFO ] 2017-05-10 22:55:20.500 [main] MJParser - Deklarisana konstanta p na liniji 8
+[INFO ] 2017-05-10 22:55:20.500 [main] MJParser - Obradjuje se funkcija k na liniji 11
+[INFO ] 2017-05-10 22:55:20.501 [main] MJParser - Deklarisana promenljiva l na liniji 11
+[INFO ] 2017-05-10 22:55:20.501 [main] MJParser - Deklarisana promenljiva c na liniji 11
+[INFO ] 2017-05-10 22:55:20.501 [main] MJParser - Pretraga na 12(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-10 22:55:20.501 [main] MJParser - Pretraga na 13(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-10 22:55:20.501 [main] MJParser - Pretraga na 14(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-10 22:55:20.502 [main] MJParser - Pretraga na 15(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-10 22:55:20.502 [main] MJParser - Obradjuje se funkcija p na liniji 18
+[INFO ] 2017-05-10 22:55:20.502 [main] MJParser - Deklarisana promenljiva p1 na liniji 18
+[INFO ] 2017-05-10 22:55:20.502 [main] MJParser - Obradjuje se funkcija main na liniji 21
+[INFO ] 2017-05-10 22:55:20.502 [main] MJParser - Deklarisana promenljiva lk na liniji 21
+[INFO ] 2017-05-10 22:55:20.503 [main] MJParser - Pretraga na 23(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.503 [main] MJParser - Pretraga na 24(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.503 [main] MJParser - Pretraga na 25(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.503 [main] MJParser - Pretraga na 25(jedan), nadjeno Con jedan: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.504 [main] MJParser - Pretraga na 26(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.504 [main] MJParser - Pretraga na 26(pet), nadjeno Con pet: int, 5, 0 
+[INFO ] 2017-05-10 22:55:20.504 [main] MJParser - Pretraga na 27(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.504 [main] MJParser - Pretraga na 28(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-10 22:55:20.505 [main] MJParser - Pretraga na 28(jedan), nadjeno Con jedan: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.505 [main] MJParser - Pretraga na 30(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-10 22:55:20.505 [main] MJParser - Pretraga na 32(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.505 [main] MJParser - Pretraga na 33(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.505 [main] MJParser - Pretraga na 34(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 36(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 37(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 38(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 38(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 40(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-10 22:55:20.506 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.507 [main] MJParser - Pretraga na 42(b), nadjeno Var b: , 2, 0 
+[INFO ] 2017-05-10 22:55:20.507 [main] MJParser - Pretraga na 44(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-10 22:55:20.507 [main] MJParser - Pretraga na 45(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-10 22:55:20.507 [main] MJParser - Pretraga na 47(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-10 22:55:20.507 [main] MJParser - Pretraga na 48(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 49(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 50(b), nadjeno Var b: , 2, 0 
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 51(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 53(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 53(k), nadjeno Meth k: int, 0, 0 
+   Var l: int, 0, 1 
+   Var c: int, 1, 1 
+   Con : int, 3, 1 
+
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pronadjen poziv funkcije k na liniji 53
+[INFO ] 2017-05-10 22:55:20.508 [main] MJParser - Pretraga na 54(y), nadjeno Var y: int, 0, 0 
+[DEBUG] 2017-05-10 22:55:20.512 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 22:55:20.512 [main] MJParserTest - Print calls = 9
+[INFO ] 2017-05-10 22:55:20.512 [main] MJParserTest - Global constants definitions = 4
+[INFO ] 2017-05-10 22:55:20.513 [main] MJParserTest - Global variable definitions = 4
+[INFO ] 2017-05-10 22:55:20.513 [main] MJParserTest - Local variable definitions in main function = 1
+[INFO ] 2017-05-10 22:55:20.513 [main] MJParserTest - Global array variable declarations = 2
+[INFO ] 2017-05-10 22:55:20.533 [main] MJParserTest - Parsiranje uspesno!
+[INFO ] 2017-05-10 22:56:06.007 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\test2.mj
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta cbl na liniji 2
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta ccr na liniji 3
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta cit na liniji 4
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vait na liniji 6
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vit na liniji 6
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vcr na liniji 7
+[INFO ] 2017-05-10 22:56:06.036 [main] MJParser - Deklarisana promenljiva vabl na liniji 8
+[INFO ] 2017-05-10 22:56:06.036 [main] MJParser - Obradjuje se funkcija mrit na liniji 11
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Deklarisana promenljiva p na liniji 11
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 12(p), nadjeno Var p: char, 0, 1 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 13(vcr), nadjeno Var vcr: char, 2, 0 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 13(p), nadjeno Var p: char, 0, 1 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 14(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 15(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Obradjuje se funkcija main na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Deklarisana promenljiva c na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Deklarisana promenljiva b na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 19(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 20(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 20(cbl), nadjeno Con cbl: , 1, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 21(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 23(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 24(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 24(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 26(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 27(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 28(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 28(cit), nadjeno Con cit: int, 10, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 29(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 29(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 31(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 33(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 34(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 35(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 36(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 37(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 38(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 38(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 40(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 41(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 41(mrit), nadjeno Meth mrit: int, 0, 0 
+   Var p: char, 0, 1 
+   Con : char, 5, 1 
+
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pronadjen poziv funkcije mrit na liniji 41
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 42(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 44(vcr), nadjeno Var vcr: char, 2, 0 
+[DEBUG] 2017-05-10 22:56:06.043 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParserTest - Print calls = 8
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global constants definitions = 3
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global variable definitions = 2
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Local variable definitions in main function = 2
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global array variable declarations = 2
+[INFO ] 2017-05-10 22:56:06.048 [main] MJParserTest - Parsiranje uspesno!
+[INFO ] 2017-05-10 22:57:01.812 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error1.mj
+[INFO ] 2017-05-10 22:57:01.825 [main] MJParser - Deklarisana konstanta o na liniji 2
+[ERROR] 2017-05-10 22:57:01.825 [main] MJParser - 
+Sintaksna greska Error na liniji 2
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Uspesan oporavak od greske na liniji 2 pri definisanju globalne promenljive
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Deklarisana konstanta i na liniji 2
+[ERROR] 2017-05-10 22:57:01.826 [main] MJParser - 
+Sintaksna greska Error na liniji 4
+[INFO ] 2017-05-10 22:57:01.826 [main] MJParser - Uspesan oporavak od greske na liniji 4 pri definisanju globalne promenljive
+[INFO ] 2017-05-10 22:57:01.828 [main] MJParser - Obradjuje se funkcija mrit na liniji 7
+[INFO ] 2017-05-10 22:57:01.829 [main] MJParser - Deklarisana promenljiva rw na liniji 7
+[ERROR] 2017-05-10 22:57:01.829 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[ERROR] 2017-05-10 22:57:01.829 [main] MJParser - 
+Sintaksna greska Error na liniji 7
+[INFO ] 2017-05-10 22:57:01.829 [main] MJParser - Uspesan oporavak od greske na liniji 7 pri definisanju lokalne promenljive
+[INFO ] 2017-05-10 22:57:01.830 [main] MJParser - Pretraga na 8(vcr), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.830 [main] MJParser - Greska na liniji 8: ime vcr nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - 
+Sintaksna greska Error na liniji 9
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - Semanticka greska na liniji 7 : funkcija mrit nema return iskaz! 
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Obradjuje se funkcija main na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Deklarisana promenljiva f na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Deklarisana promenljiva a na liniji 12
+[INFO ] 2017-05-10 22:57:01.831 [main] MJParser - Pretraga na 13(ib), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.831 [main] MJParser - Greska na liniji 13: ime ib nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 13 : sa leve strane izraza nije promenljiva ili elemnt niza
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 15(o), nadjeno Con o: int, 10, 0 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - 
+Sintaksna greska Error na liniji 17
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 19(objekat), nadjeno Var noObj: notype, -1, -1 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 19: ime objekat nije deklarisano! 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Greska na liniji 19 : elemnt prosledjen u funkciju read nije promenljiva ili elemnt niza tipa int, char ili bool
+[INFO ] 2017-05-10 22:57:01.832 [main] MJParser - Pretraga na 21(a), nadjeno Var a: , 1, 1 
+[ERROR] 2017-05-10 22:57:01.832 [main] MJParser - Semanticka greska na liniji 12 : funkcija main nema return iskaz! 
+[DEBUG] 2017-05-10 22:57:01.833 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Print calls = 1
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global constants definitions = 2
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global variable definitions = 0
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Local variable definitions in main function = 2
+[INFO ] 2017-05-10 22:57:01.833 [main] MJParserTest - Global array variable declarations = 0
+[ERROR] 2017-05-10 22:57:01.834 [main] MJParserTest - Error : Parsiranje neuspesno!
+[INFO ] 2017-05-10 23:01:14.972 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error2.mj
+[INFO ] 2017-05-10 23:01:14.989 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-10 23:01:14.989 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-10 23:01:14.990 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-10 23:01:14.990 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-10 23:01:14.990 [main] MJParser - Deklarisana konstanta p na liniji 4
+[ERROR] 2017-05-10 23:01:14.990 [main] MJParser - Nije pronadjen tip Objekat u tabeli simbola
+[INFO ] 2017-05-10 23:01:14.991 [main] MJParser - Deklarisana promenljiva r na liniji 7
+[INFO ] 2017-05-10 23:01:14.994 [main] MJParser - Deklarisana promenljiva k na liniji 7
+[ERROR] 2017-05-10 23:01:14.995 [main] MJParser - Promenljiva b na liniji 7 je vec definisana za trenutni scope!
+[INFO ] 2017-05-10 23:01:14.995 [main] MJParser - Deklarisana promenljiva m na liniji 8
+[INFO ] 2017-05-10 23:01:14.995 [main] MJParser - Obradjuje se funkcija r na liniji 10
+[INFO ] 2017-05-10 23:01:14.995 [main] MJParser - Deklarisana promenljiva k na liniji 10
+[ERROR] 2017-05-10 23:01:14.996 [main] MJParser - Semanticka greska na liniji 10 : funkcija r nema return iskaz! 
+[INFO ] 2017-05-10 23:01:14.996 [main] MJParser - Obradjuje se funkcija k na liniji 16
+[INFO ] 2017-05-10 23:01:14.996 [main] MJParser - Deklarisana promenljiva l na liniji 16
+[INFO ] 2017-05-10 23:01:14.996 [main] MJParser - Deklarisana promenljiva c na liniji 16
+[INFO ] 2017-05-10 23:01:14.997 [main] MJParser - Pretraga na 17(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:01:14.997 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:01:14.997 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:01:14.997 [main] MJParser - Pretraga na 19(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:01:14.997 [main] MJParser - Pretraga na 20(l), nadjeno Var l: int, 4, 1 
+[INFO ] 2017-05-10 23:01:14.998 [main] MJParser - Pretraga na 20(f), nadjeno Var f: int, 3, 1 
+[ERROR] 2017-05-10 23:01:14.998 [main] MJParser - 
+Sintaksna greska Error na liniji 20
+[INFO ] 2017-05-10 23:01:14.999 [main] MJParser - Pretraga na 21(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:01:14.999 [main] MJParser - Pretraga na 25(c), nadjeno Var c: int, 5, 1 
+[ERROR] 2017-05-10 23:01:14.999 [main] MJParser - Greska na liniji 29 : tip izraza u return ne slaze se sa tipom povratne funkcije k
+[INFO ] 2017-05-10 23:01:15.000 [main] MJParser - Obradjuje se funkcija p na liniji 32
+[INFO ] 2017-05-10 23:01:15.000 [main] MJParser - Deklarisana promenljiva p na liniji 32
+[ERROR] 2017-05-10 23:01:15.000 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[INFO ] 2017-05-10 23:01:15.000 [main] MJParser - Deklarisana promenljiva gr na liniji 32
+[INFO ] 2017-05-10 23:01:15.000 [main] MJParser - Obradjuje se funkcija main na liniji 35
+[INFO ] 2017-05-10 23:01:15.000 [main] MJParser - Pretraga na 36(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:01:15.001 [main] MJParser - Pretraga na 37(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:01:15.001 [main] MJParser - Pretraga na 38(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:01:15.001 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:01:15.001 [main] MJParser - Pretraga na 41(k), nadjeno Var k: int, 8, 0 Var a: int, 0, 1 
+Var znj: int, 1, 1 
+Var p: Arr of char, 2, 1 
+Var f: int, 3, 1 
+Var l: int, 4, 1 
+Var c: int, 5, 1 
+Con : int, 108, 1 
+
+[ERROR] 2017-05-10 23:01:15.002 [main] MJParser - Greska na liniji 41 ime  k nije funkcija!
+[DEBUG] 2017-05-10 23:01:15.002 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 23:01:15.002 [main] MJParserTest - Print calls = 4
+[INFO ] 2017-05-10 23:01:15.002 [main] MJParserTest - Global constants definitions = 1
+[INFO ] 2017-05-10 23:01:15.002 [main] MJParserTest - Global variable definitions = 6
+[INFO ] 2017-05-10 23:01:15.002 [main] MJParserTest - Local variable definitions in main function = 0
+[INFO ] 2017-05-10 23:01:15.002 [main] MJParserTest - Global array variable declarations = 1
+[ERROR] 2017-05-10 23:01:15.003 [main] MJParserTest - Error : Parsiranje neuspesno!
+[INFO ] 2017-05-10 23:07:10.704 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error2.mj
+[INFO ] 2017-05-10 23:07:10.718 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-10 23:07:10.718 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-10 23:07:10.718 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-10 23:07:10.718 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-10 23:07:10.718 [main] MJParser - Deklarisana konstanta p na liniji 4
+[ERROR] 2017-05-10 23:07:10.718 [main] MJParser - Nije pronadjen tip Objekat u tabeli simbola
+[INFO ] 2017-05-10 23:07:10.719 [main] MJParser - Deklarisana promenljiva r na liniji 7
+[INFO ] 2017-05-10 23:07:10.719 [main] MJParser - Deklarisana promenljiva k na liniji 7
+[ERROR] 2017-05-10 23:07:10.719 [main] MJParser - Promenljiva b na liniji 7 je vec definisana za trenutni scope!
+[INFO ] 2017-05-10 23:07:10.719 [main] MJParser - Deklarisana promenljiva m na liniji 8
+[INFO ] 2017-05-10 23:07:10.719 [main] MJParser - Obradjuje se funkcija r na liniji 10
+[INFO ] 2017-05-10 23:07:10.719 [main] MJParser - Deklarisana promenljiva k na liniji 10
+[ERROR] 2017-05-10 23:07:10.719 [main] MJParser - Semanticka greska na liniji 10 : funkcija r nema return iskaz! 
+[INFO ] 2017-05-10 23:07:10.720 [main] MJParser - Obradjuje se funkcija k na liniji 16
+[INFO ] 2017-05-10 23:07:10.720 [main] MJParser - Deklarisana promenljiva l na liniji 16
+[INFO ] 2017-05-10 23:07:10.720 [main] MJParser - Deklarisana promenljiva c na liniji 16
+[INFO ] 2017-05-10 23:07:10.720 [main] MJParser - Pretraga na 17(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:07:10.720 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:07:10.721 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:07:10.721 [main] MJParser - Pretraga na 19(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:07:10.721 [main] MJParser - Pretraga na 20(l), nadjeno Var l: int, 4, 1 
+[INFO ] 2017-05-10 23:07:10.721 [main] MJParser - Pretraga na 20(f), nadjeno Var f: int, 3, 1 
+[ERROR] 2017-05-10 23:07:10.721 [main] MJParser - 
+Sintaksna greska Error na liniji 20
+[INFO ] 2017-05-10 23:07:10.722 [main] MJParser - Pretraga na 21(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:07:10.722 [main] MJParser - Pretraga na 25(c), nadjeno Var c: int, 5, 1 
+[ERROR] 2017-05-10 23:07:10.723 [main] MJParser - Greska na liniji 29 : tip izraza u return ne slaze se sa tipom povratne funkcije k
+[INFO ] 2017-05-10 23:07:10.723 [main] MJParser - Obradjuje se funkcija p na liniji 32
+[INFO ] 2017-05-10 23:07:10.723 [main] MJParser - Deklarisana promenljiva p na liniji 32
+[ERROR] 2017-05-10 23:07:10.723 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[INFO ] 2017-05-10 23:07:10.723 [main] MJParser - Deklarisana promenljiva gr na liniji 32
+[INFO ] 2017-05-10 23:07:10.723 [main] MJParser - Obradjuje se funkcija main na liniji 35
+[INFO ] 2017-05-10 23:07:10.723 [main] MJParser - Pretraga na 36(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:07:10.724 [main] MJParser - Pretraga na 37(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:07:10.724 [main] MJParser - Pretraga na 38(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:07:10.724 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:07:10.724 [main] MJParser - Pretraga na 41(k), nadjeno Var k: int, 8, 0 Var a: int, 0, 1 
+Var znj: int, 1, 1 
+Var p: Arr of char, 2, 1 
+Var f: int, 3, 1 
+Var l: int, 4, 1 
+Var c: int, 5, 1 
+Con : int, 108, 1 
+
+[ERROR] 2017-05-10 23:07:10.724 [main] MJParser - Greska na liniji 41 ime  k nije funkcija!
+[DEBUG] 2017-05-10 23:07:10.725 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 23:07:10.725 [main] MJParserTest - Print calls = 4
+[INFO ] 2017-05-10 23:07:10.725 [main] MJParserTest - Global constants definitions = 1
+[INFO ] 2017-05-10 23:07:10.725 [main] MJParserTest - Global variable definitions = 6
+[INFO ] 2017-05-10 23:07:10.725 [main] MJParserTest - Local variable definitions in main function = 0
+[INFO ] 2017-05-10 23:07:10.726 [main] MJParserTest - Global array variable declarations = 1
+[ERROR] 2017-05-10 23:07:10.726 [main] MJParserTest - Error : Parsiranje neuspesno!
+[INFO ] 2017-05-10 23:15:41.398 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error2.mj
+[INFO ] 2017-05-10 23:15:41.412 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-10 23:15:41.413 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-10 23:15:41.413 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-10 23:15:41.413 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-10 23:15:41.413 [main] MJParser - Deklarisana konstanta p na liniji 4
+[ERROR] 2017-05-10 23:15:41.413 [main] MJParser - Nije pronadjen tip Objekat u tabeli simbola
+[INFO ] 2017-05-10 23:15:41.413 [main] MJParser - Deklarisana promenljiva r na liniji 7
+[INFO ] 2017-05-10 23:15:41.414 [main] MJParser - Deklarisana promenljiva k na liniji 7
+[ERROR] 2017-05-10 23:15:41.414 [main] MJParser - Promenljiva b na liniji 7 je vec definisana za trenutni scope!
+[INFO ] 2017-05-10 23:15:41.414 [main] MJParser - Deklarisana promenljiva m na liniji 8
+[INFO ] 2017-05-10 23:15:41.414 [main] MJParser - Obradjuje se funkcija r na liniji 10
+[INFO ] 2017-05-10 23:15:41.414 [main] MJParser - Deklarisana promenljiva k na liniji 10
+[ERROR] 2017-05-10 23:15:41.414 [main] MJParser - Semanticka greska na liniji 10 : funkcija r nema return iskaz! 
+[INFO ] 2017-05-10 23:15:41.415 [main] MJParser - Obradjuje se funkcija k na liniji 16
+[INFO ] 2017-05-10 23:15:41.415 [main] MJParser - Deklarisana promenljiva l na liniji 16
+[INFO ] 2017-05-10 23:15:41.415 [main] MJParser - Deklarisana promenljiva c na liniji 16
+[INFO ] 2017-05-10 23:15:41.415 [main] MJParser - Pretraga na 17(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:15:41.415 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:15:41.416 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:15:41.416 [main] MJParser - Pretraga na 19(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:15:41.416 [main] MJParser - Pretraga na 20(l), nadjeno Var l: int, 4, 1 
+[INFO ] 2017-05-10 23:15:41.416 [main] MJParser - Pretraga na 20(f), nadjeno Var f: int, 3, 1 
+[ERROR] 2017-05-10 23:15:41.416 [main] MJParser - 
+Sintaksna greska Error na liniji 20
+[INFO ] 2017-05-10 23:15:41.417 [main] MJParser - Pretraga na 21(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:15:41.417 [main] MJParser - Pretraga na 25(c), nadjeno Var c: int, 5, 1 
+[ERROR] 2017-05-10 23:15:41.417 [main] MJParser - Greska na liniji 29 : tip izraza u return ne slaze se sa tipom povratne funkcije k
+[INFO ] 2017-05-10 23:15:41.417 [main] MJParser - Obradjuje se funkcija p na liniji 32
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Deklarisana promenljiva p na liniji 32
+[ERROR] 2017-05-10 23:15:41.418 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Deklarisana promenljiva gr na liniji 32
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Obradjuje se funkcija main na liniji 35
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Pretraga na 36(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Pretraga na 37(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:15:41.418 [main] MJParser - Pretraga na 38(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParser - Pretraga na 41(k), nadjeno Var k: int, 8, 0 Var a: int, 0, 1 
+Var znj: int, 1, 1 
+Var p: Arr of char, 2, 1 
+Var f: int, 3, 1 
+Var l: int, 4, 1 
+Var c: int, 5, 1 
+Con : int, 108, 1 
+
+[ERROR] 2017-05-10 23:15:41.419 [main] MJParser - Greska na liniji 41 ime  k nije funkcija!
+[DEBUG] 2017-05-10 23:15:41.419 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParserTest - Print calls = 4
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParserTest - Global constants definitions = 1
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParserTest - Global variable definitions = 6
+[INFO ] 2017-05-10 23:15:41.419 [main] MJParserTest - Local variable definitions in main function = 0
+[INFO ] 2017-05-10 23:15:41.420 [main] MJParserTest - Global array variable declarations = 1
+[ERROR] 2017-05-10 23:15:41.420 [main] MJParserTest - Error : Parsiranje neuspesno!
+[INFO ] 2017-05-10 23:17:21.404 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\error2.mj
+[INFO ] 2017-05-10 23:17:21.417 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-10 23:17:21.418 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-10 23:17:21.418 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-10 23:17:21.418 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-10 23:17:21.418 [main] MJParser - Deklarisana konstanta p na liniji 4
+[ERROR] 2017-05-10 23:17:21.418 [main] MJParser - Nije pronadjen tip Objekat u tabeli simbola
+[INFO ] 2017-05-10 23:17:21.419 [main] MJParser - Deklarisana promenljiva r na liniji 7
+[INFO ] 2017-05-10 23:17:21.419 [main] MJParser - Deklarisana promenljiva k na liniji 7
+[ERROR] 2017-05-10 23:17:21.419 [main] MJParser - Promenljiva b na liniji 7 je vec definisana za trenutni scope!
+[INFO ] 2017-05-10 23:17:21.419 [main] MJParser - Deklarisana promenljiva m na liniji 8
+[INFO ] 2017-05-10 23:17:21.419 [main] MJParser - Obradjuje se funkcija r na liniji 10
+[INFO ] 2017-05-10 23:17:21.419 [main] MJParser - Deklarisana promenljiva k na liniji 10
+[ERROR] 2017-05-10 23:17:21.420 [main] MJParser - Semanticka greska na liniji 10 : funkcija r nema return iskaz! 
+[INFO ] 2017-05-10 23:17:21.420 [main] MJParser - Obradjuje se funkcija k na liniji 16
+[INFO ] 2017-05-10 23:17:21.420 [main] MJParser - Deklarisana promenljiva l na liniji 16
+[INFO ] 2017-05-10 23:17:21.420 [main] MJParser - Deklarisana promenljiva c na liniji 16
+[INFO ] 2017-05-10 23:17:21.420 [main] MJParser - Pretraga na 17(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:17:21.420 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:17:21.421 [main] MJParser - Pretraga na 18(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:17:21.421 [main] MJParser - Pretraga na 19(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:17:21.421 [main] MJParser - Pretraga na 20(l), nadjeno Var l: int, 4, 1 
+[INFO ] 2017-05-10 23:17:21.421 [main] MJParser - Pretraga na 20(f), nadjeno Var f: int, 3, 1 
+[ERROR] 2017-05-10 23:17:21.421 [main] MJParser - 
+Sintaksna greska Error na liniji 20
+[INFO ] 2017-05-10 23:17:21.422 [main] MJParser - Pretraga na 21(c), nadjeno Var c: int, 5, 1 
+[INFO ] 2017-05-10 23:17:21.423 [main] MJParser - Pretraga na 25(c), nadjeno Var c: int, 5, 1 
+[ERROR] 2017-05-10 23:17:21.423 [main] MJParser - Greska na liniji 29 : tip izraza u return ne slaze se sa tipom povratne funkcije k
+[INFO ] 2017-05-10 23:17:21.423 [main] MJParser - Obradjuje se funkcija p na liniji 32
+[INFO ] 2017-05-10 23:17:21.423 [main] MJParser - Deklarisana promenljiva p na liniji 32
+[ERROR] 2017-05-10 23:17:21.424 [main] MJParser - Nije pronadjen tip greska u tabeli simbola
+[INFO ] 2017-05-10 23:17:21.424 [main] MJParser - Deklarisana promenljiva gr na liniji 32
+[INFO ] 2017-05-10 23:17:21.424 [main] MJParser - Obradjuje se funkcija main na liniji 35
+[INFO ] 2017-05-10 23:17:21.424 [main] MJParser - Pretraga na 36(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:17:21.424 [main] MJParser - Pretraga na 37(y), nadjeno Var y: Arr of int, 1, 0 
+[INFO ] 2017-05-10 23:17:21.425 [main] MJParser - Pretraga na 38(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:17:21.425 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 0, 0 
+[INFO ] 2017-05-10 23:17:21.426 [main] MJParser - Pretraga na 41(k), nadjeno Var k: int, 8, 0 Var a: int, 0, 1 
+Var znj: int, 1, 1 
+Var p: Arr of char, 2, 1 
+Var f: int, 3, 1 
+Var l: int, 4, 1 
+Var c: int, 5, 1 
+Con : int, 108, 1 
+
+[ERROR] 2017-05-10 23:17:21.426 [main] MJParser - Greska na liniji 41 ime  k nije funkcija!
+[DEBUG] 2017-05-10 23:17:21.426 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 23:17:21.427 [main] MJParserTest - Print calls = 4
+[INFO ] 2017-05-10 23:17:21.427 [main] MJParserTest - Global constants definitions = 1
+[INFO ] 2017-05-10 23:17:21.427 [main] MJParserTest - Global variable definitions = 6
+[INFO ] 2017-05-10 23:17:21.427 [main] MJParserTest - Local variable definitions in main function = 0
+[INFO ] 2017-05-10 23:17:21.427 [main] MJParserTest - Global array variable declarations = 1
+[ERROR] 2017-05-10 23:17:21.428 [main] MJParserTest - Error : Parsiranje neuspesno!
+[INFO ] 2017-05-11 09:05:04.409 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\file.mj
+[INFO ] 2017-05-11 09:05:16.269 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\test1.mj
+[INFO ] 2017-05-11 09:05:16.284 [main] MJParser - Deklarisana promenljiva y na liniji 2
+[INFO ] 2017-05-11 09:05:16.285 [main] MJParser - Deklarisana promenljiva x na liniji 2
+[INFO ] 2017-05-11 09:05:16.285 [main] MJParser - Deklarisana promenljiva b na liniji 2
+[INFO ] 2017-05-11 09:05:16.285 [main] MJParser - Deklarisana promenljiva c na liniji 2
+[INFO ] 2017-05-11 09:05:16.286 [main] MJParser - Deklarisana promenljiva g na liniji 2
+[INFO ] 2017-05-11 09:05:16.286 [main] MJParser - Deklarisana promenljiva nizch na liniji 3
+[INFO ] 2017-05-11 09:05:16.287 [main] MJParser - Deklarisana konstanta jedan na liniji 5
+[INFO ] 2017-05-11 09:05:16.287 [main] MJParser - Deklarisana konstanta rr na liniji 5
+[INFO ] 2017-05-11 09:05:16.288 [main] MJParser - Deklarisana konstanta pet na liniji 6
+[INFO ] 2017-05-11 09:05:16.288 [main] MJParser - Deklarisana konstanta p na liniji 8
+[INFO ] 2017-05-11 09:05:16.289 [main] MJParser - Obradjuje se funkcija k na liniji 11
+[INFO ] 2017-05-11 09:05:16.289 [main] MJParser - Deklarisana promenljiva l na liniji 11
+[INFO ] 2017-05-11 09:05:16.291 [main] MJParser - Deklarisana promenljiva c na liniji 11
+[INFO ] 2017-05-11 09:05:16.294 [main] MJParser - Pretraga na 12(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-11 09:05:16.294 [main] MJParser - Pretraga na 13(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-11 09:05:16.295 [main] MJParser - Pretraga na 14(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-11 09:05:16.295 [main] MJParser - Pretraga na 15(c), nadjeno Var c: int, 1, 1 
+[INFO ] 2017-05-11 09:05:16.296 [main] MJParser - Obradjuje se funkcija p na liniji 18
+[INFO ] 2017-05-11 09:05:16.296 [main] MJParser - Deklarisana promenljiva p1 na liniji 18
+[INFO ] 2017-05-11 09:05:16.297 [main] MJParser - Obradjuje se funkcija main na liniji 21
+[INFO ] 2017-05-11 09:05:16.297 [main] MJParser - Deklarisana promenljiva lk na liniji 21
+[INFO ] 2017-05-11 09:05:16.297 [main] MJParser - Pretraga na 23(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.299 [main] MJParser - Pretraga na 24(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.300 [main] MJParser - Pretraga na 25(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.301 [main] MJParser - Pretraga na 25(jedan), nadjeno Con jedan: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.301 [main] MJParser - Pretraga na 26(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.301 [main] MJParser - Pretraga na 26(pet), nadjeno Con pet: int, 5, 0 
+[INFO ] 2017-05-11 09:05:16.303 [main] MJParser - Pretraga na 27(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.304 [main] MJParser - Pretraga na 28(nizch), nadjeno Var nizch: Arr of char, 5, 0 
+[INFO ] 2017-05-11 09:05:16.304 [main] MJParser - Pretraga na 28(jedan), nadjeno Con jedan: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.305 [main] MJParser - Pretraga na 30(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-11 09:05:16.305 [main] MJParser - Pretraga na 32(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.306 [main] MJParser - Pretraga na 33(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.306 [main] MJParser - Pretraga na 34(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.306 [main] MJParser - Pretraga na 36(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-11 09:05:16.307 [main] MJParser - Pretraga na 37(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-11 09:05:16.307 [main] MJParser - Pretraga na 38(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-11 09:05:16.307 [main] MJParser - Pretraga na 38(lk), nadjeno Var lk: Arr of char, 0, 1 
+[INFO ] 2017-05-11 09:05:16.308 [main] MJParser - Pretraga na 40(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-11 09:05:16.308 [main] MJParser - Pretraga na 40(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.309 [main] MJParser - Pretraga na 42(b), nadjeno Var b: , 2, 0 
+[INFO ] 2017-05-11 09:05:16.309 [main] MJParser - Pretraga na 44(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-11 09:05:16.310 [main] MJParser - Pretraga na 45(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-11 09:05:16.310 [main] MJParser - Pretraga na 47(c), nadjeno Var c: char, 3, 0 
+[INFO ] 2017-05-11 09:05:16.310 [main] MJParser - Pretraga na 48(x), nadjeno Var x: int, 1, 0 
+[INFO ] 2017-05-11 09:05:16.311 [main] MJParser - Pretraga na 49(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-11 09:05:16.311 [main] MJParser - Pretraga na 50(b), nadjeno Var b: , 2, 0 
+[INFO ] 2017-05-11 09:05:16.311 [main] MJParser - Pretraga na 51(g), nadjeno Var g: Arr of int, 4, 0 
+[INFO ] 2017-05-11 09:05:16.314 [main] MJParser - Pretraga na 53(y), nadjeno Var y: int, 0, 0 
+[INFO ] 2017-05-11 09:05:16.315 [main] MJParser - Pretraga na 53(k), nadjeno Meth k: int, 0, 0 
+   Var l: int, 0, 1 
+   Var c: int, 1, 1 
+   Con : int, 3, 1 
+
+[INFO ] 2017-05-11 09:05:16.317 [main] MJParser - Pronadjen poziv funkcije k na liniji 53
+[INFO ] 2017-05-11 09:05:16.318 [main] MJParser - Pretraga na 54(y), nadjeno Var y: int, 0, 0 
+[DEBUG] 2017-05-11 09:05:16.319 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-11 09:05:16.319 [main] MJParserTest - Print calls = 9
+[INFO ] 2017-05-11 09:05:16.319 [main] MJParserTest - Global constants definitions = 4
+[INFO ] 2017-05-11 09:05:16.320 [main] MJParserTest - Global variable definitions = 4
+[INFO ] 2017-05-11 09:05:16.320 [main] MJParserTest - Local variable definitions in main function = 1
+[INFO ] 2017-05-11 09:05:16.321 [main] MJParserTest - Global array variable declarations = 2
+[INFO ] 2017-05-11 09:05:16.327 [main] MJParserTest - Parsiranje uspesno!
+[INFO ] 2017-05-11 09:06:47.399 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\test\test1.mj
+[INFO ] 2017-05-11 09:07:02.894 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\test1.mj

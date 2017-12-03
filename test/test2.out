@@ -1,0 +1,89 @@
+[INFO ] 2017-05-10 22:56:06.007 [main] MJParserTest - Compiling source file: C:\Users\Aleksa\Desktop\ETF nepolozeno\PP\pp1 projekat\workspace\MJCompiler\bin\..\test\test2.mj
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta cbl na liniji 2
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta ccr na liniji 3
+[INFO ] 2017-05-10 22:56:06.034 [main] MJParser - Deklarisana konstanta cit na liniji 4
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vait na liniji 6
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vit na liniji 6
+[INFO ] 2017-05-10 22:56:06.035 [main] MJParser - Deklarisana promenljiva vcr na liniji 7
+[INFO ] 2017-05-10 22:56:06.036 [main] MJParser - Deklarisana promenljiva vabl na liniji 8
+[INFO ] 2017-05-10 22:56:06.036 [main] MJParser - Obradjuje se funkcija mrit na liniji 11
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Deklarisana promenljiva p na liniji 11
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 12(p), nadjeno Var p: char, 0, 1 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 13(vcr), nadjeno Var vcr: char, 2, 0 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 13(p), nadjeno Var p: char, 0, 1 
+[INFO ] 2017-05-10 22:56:06.037 [main] MJParser - Pretraga na 14(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 15(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Obradjuje se funkcija main na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Deklarisana promenljiva c na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Deklarisana promenljiva b na liniji 18
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 19(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.038 [main] MJParser - Pretraga na 20(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 20(cbl), nadjeno Con cbl: , 1, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 21(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 23(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 24(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.039 [main] MJParser - Pretraga na 24(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 26(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 27(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.040 [main] MJParser - Pretraga na 28(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 28(cit), nadjeno Con cit: int, 10, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 29(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 29(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 31(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.041 [main] MJParser - Pretraga na 33(vabl), nadjeno Var vabl: Arr of , 3, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 34(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 35(b), nadjeno Var b: Arr of , 1, 1 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 36(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 37(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 38(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 38(vait), nadjeno Var vait: Arr of int, 0, 0 
+[INFO ] 2017-05-10 22:56:06.042 [main] MJParser - Pretraga na 40(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 41(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 41(mrit), nadjeno Meth mrit: int, 0, 0 
+   Var p: char, 0, 1 
+   Con : char, 5, 1 
+
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pronadjen poziv funkcije mrit na liniji 41
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 42(vit), nadjeno Var vit: int, 1, 0 
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParser - Pretraga na 44(vcr), nadjeno Var vcr: char, 2, 0 
+[DEBUG] 2017-05-10 22:56:06.043 [main] MJParserTest - =====================SYNTAX ANALYSIS=========================
+[INFO ] 2017-05-10 22:56:06.043 [main] MJParserTest - Print calls = 8
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global constants definitions = 3
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global variable definitions = 2
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Local variable definitions in main function = 2
+[INFO ] 2017-05-10 22:56:06.044 [main] MJParserTest - Global array variable declarations = 2
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog Test2: notype, 0, 1 
+   Con cbl: , 1, 0 
+   Con ccr: char, 97, 0 
+   Con cit: int, 10, 0 
+   Var vait: Arr of int, 0, 0 
+   Var vit: int, 1, 0 
+   Var vcr: char, 2, 0 
+   Var vabl: Arr of , 3, 0 
+   Meth mrit: int, 0, 0 
+      Var p: char, 0, 1 
+      Con : char, 5, 1 
+
+   Meth main: int, 22, 0 
+      Var c: Arr of char, 0, 1 
+      Var b: Arr of , 1, 1 
+      Con : int, 0, 1 
+
+
+
+[INFO ] 2017-05-10 22:56:06.048 [main] MJParserTest - Parsiranje uspesno!
